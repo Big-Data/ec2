@@ -1,0 +1,7 @@
+
+*.bak
+*.pyc
+/ec2.egg-info
+/ec2/conf/enabled.py
+
+/script/data/Thumbs.db
